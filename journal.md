@@ -1,0 +1,1 @@
+In my SinglyLkinkedList.java file, all my "current.next" is underlined red, i've tried to fix and move around the code but I wasen't getting anywhere with it.
